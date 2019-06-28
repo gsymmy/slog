@@ -1,2 +1,6 @@
 # slog
-Flutter and Dart based Android and iOS app to manage local scoreboards. 
+An app that helps you manage your local scorebaords in a professional way. 
+
+# version 1
+Gully Cricket
+
